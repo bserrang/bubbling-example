@@ -1,0 +1,36 @@
+#wrapper1 {
+  background-color: lightblue;
+  height: 50vh;
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: auto;
+}
+
+#wrapper2 {
+  background-color: lightgreen;
+  height: 30vh;
+  width: 70vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+#wrapper3 {
+  background-color: lightsalmon;
+  height: 10vh;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+span{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
